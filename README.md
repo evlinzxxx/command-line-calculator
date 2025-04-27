@@ -1,1 +1,3 @@
-# command-line-calculator
+Calculator
+
+![Output Kalkulator](calculator/calculator.png)
